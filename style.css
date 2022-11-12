@@ -1,0 +1,22 @@
+.title{
+    border-bottom-style: double;
+    border-bottom-color:yellow;
+}
+
+.pfpContainer{
+    height:150px;
+    width:100px;
+    display: inline-block;
+    float:left;
+    padding-right:8px
+}
+
+.profileHeader{
+    color:red;
+    padding-bottom: 15px;
+} 
+
+.flexContainer{
+    display:flex;
+    flex-wrap: nowrap;
+}
